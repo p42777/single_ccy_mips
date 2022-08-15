@@ -1,4 +1,4 @@
-module ext(imm16, imm32, ExtOp)
+module ext(imm16, imm32, ExtOp);
     
     input [15:0] imm16;
     input [1:0] ExtOp;
